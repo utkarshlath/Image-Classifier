@@ -23,6 +23,6 @@ To work or view the project it is recommended to use Jupyter Notebooks. The clas
 - **Utkarsh Lath**
 - **Udacity**
 
-An interesting and insighful project which would not have been possible without Udacity and its mentors.
+An interesting and insightful project which would not have been possible without Udacity and its mentors.
 
 The project is licensed under MIT License.
