@@ -11,7 +11,7 @@ To work or view the project it is recommended to use Jupyter Notebooks. The clas
 
 - **Image Classifier Project.ipynb:** Contains the Python code for the classifier developed on Jupyter Notebook.
 
-- **classifier.pth:** It is the finished classfier trained on a dataset of 102 flower species using GPU. It can be directly used for predicition purposes or can be retrained.
+- **classifier.pth:** It is the finished classfier trained on a dataset of 102 flower species using GPU. It can be directly used for predicition purposes or can be retrained. Since it is a huge file I have compressed them into smaller files which can be extracted from classifier.rar.
 
 - **cat_to_name.json:** This JSON file is used to map the flower numbers and flower names.
 
