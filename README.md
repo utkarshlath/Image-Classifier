@@ -22,6 +22,7 @@ To work or view the project it is recommended to use Jupyter Notebooks. The clas
 ## Authors and Acknowledgement
 - **Utkarsh Lath**
 - **Udacity**
-An interesting and insighful project which would not have been possible with Udacity and their mentors.
+
+An interesting and insighful project which would not have been possible without Udacity and its mentors.
 
 The project is licensed under MIT License.
